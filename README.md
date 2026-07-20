@@ -1,7 +1,15 @@
 <p align="center">
   <img src="images/Profile_banner.png" alt="Pasindu Madusanka Banner" width="100%">
 </p>
+
+
 <h1 align="center">Hi 👋, I'm Pasindu Madusanka</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&width=500&center=true&vCenter=true&lines=Software+Engineer;Full+Stack+Developer;Web+Developer;Mobile+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">I'm a passionate Full-Stack developer from Sri Lanka.</h3> 
 
 💻 I enjoy building:
@@ -14,15 +22,30 @@
 
   - Currently learning advanced enterprise development and cloud technologies.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=pasindu-2004&label=Profile%20views&color=brightgreen&style=flat" alt="pasindu-2004" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu-2004" alt="pasindu-2004" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pasindu-2004&label=Profile%20views&color=brightgreen&style=flat" alt="pasindu-2004" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
 
 - 🌱 I’m currently learning **Business Components Development With Java**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **java and PHP**
 
 - 📫 How to reach me **mpasindu295@gmail.com**
 
@@ -50,4 +73,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu-2004&" alt="pasindu-2004" /></p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&width=435&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
+
