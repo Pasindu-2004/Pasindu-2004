@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Profile_banner.jpg" alt="Pasindu Madusanka Banner" width="100%">
+  <img src="images/Profile_banner.png" alt="Pasindu Madusanka Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Pasindu Madusanka</h1>
 <h3 align="center">I'm a passionate Full-Stack developer from Sri Lanka.</h3> 
