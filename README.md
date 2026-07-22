@@ -42,6 +42,9 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
 
 - 🌱 I’m currently learning **Business Components Development With Java**
 
@@ -51,11 +54,27 @@
 
 - ⚡ Fun fact **Call me as Pasindu**
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+<h3 align="left">📫 Connect with me:</h3>
+
 <p align="left">
+<a href="https://www.linkedin.com/in/pasindu-madusanka-807a48329/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindumadusanka" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pasindu.madusanka.90410" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pasindu.madusanka.90410/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@statusbox5955" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind" />
+  </a>
+</p>
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
