@@ -110,10 +110,57 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+
+<td width="50%" align="center">
+
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api?username=Pasindu-2004&theme=dark&show_icons=true"
+    alt="Pasindu's GitHub Stats"
+  />
+
+  <br><br>
+
+  <img
+    title="🔥 GitHub Streak"
+    alt="Pasindu's GitHub Streak"
+    src="https://streak-stats.vercel.app/?user=Pasindu-2004&theme=dark&hide_border=false"
+  />
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pasindu-2004&layout=donut&theme=dark&langs_count=8"
+    alt="Pasindu's Most Used Languages"
+  />
+
+
+</td>
+
+</td>
+
+</tr>
+</table>
+<!--- stats (end) -->
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--- trophy (start) -->
 <h3 align="left">Trophy:</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
+<!--- trophy (start) -->
 
 <br><br>
 
@@ -126,8 +173,6 @@
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Pasindu-2004"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Pasindu-2004" /></a></p><br><br>
