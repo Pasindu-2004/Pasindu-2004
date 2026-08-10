@@ -154,6 +154,16 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">📈 GitHub Activity</h3>
+
+![Pasindu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-2004&custom_title=Pasindu%20Madusanka's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=1F6FEB&title_color=FFFFFF&area=true)
+
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 <!--- trophy (start) -->
 <h3 align="left">Trophy:</h3>
 
@@ -161,14 +171,6 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
 <!--- trophy (start) -->
-
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">📈 GitHub Activity</h3>
-
-![Pasindu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-2004&custom_title=Pasindu%20Madusanka's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=1F6FEB&title_color=FFFFFF&area=true)
 
 <br><br>
 
