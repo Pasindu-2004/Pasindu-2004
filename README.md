@@ -154,9 +154,20 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">📈 GitHub Activity</h3>
+<h3 align="left">📊 GitHub Statistics</h3>
 
-![Pasindu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-2004&custom_title=Pasindu%20Madusanka's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=1F6FEB&title_color=FFFFFF&area=true)
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="Pasindu's GitHub Statistics"
+    width="495"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Pasindu's Top Languages"
+    width="330"
+  />
+</p>
 
 
 <br><br>
