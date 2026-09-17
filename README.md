@@ -154,26 +154,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">📊 GitHub Statistics</h3>
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="Pasindu's GitHub Statistics"
-    width="495"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    alt="Pasindu's Top Languages"
-    width="330"
-  />
-</p>
-
-
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 
 <!--- trophy (start) -->
 <h3 align="left">Trophy:</h3>
